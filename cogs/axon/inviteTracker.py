@@ -24,4 +24,4 @@ class _inviteTracker(commands.Cog):
 
     async def __InviteTracker__(self, ctx: commands.Context):
 
-        """`>Invite enable` , `>Invite disable `, `>invites` , `>resetinvites` , `>addinvites` , `>removeinvites` , `>resetserverinvites` """
+        """`>Invite enable` , `&Invite disable `, `&invites` , `&resetinvites` , `&addinvites` , `&removeinvites` , `&resetserverinvites` """
